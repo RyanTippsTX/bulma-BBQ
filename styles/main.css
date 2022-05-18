@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Contrail+One&family=Itim&family=Pangolin&family=Patrick+Hand&family=Permanent+Marker&family=Sigmar+One&display=swap');
+
+/* 
+font-family: 'Sigmar One', cursive;
+font-family: 'Contrail One', cursive;
+font-family: 'Patrick Hand', cursive;
+font-family: 'Permanent Marker', cursive;
+font-family: 'Pangolin', cursive;
+*/
+
+:root {
+  --hero-color: rgb(22, 13, 1);
+  --title-color: antiquewhite;
+  --menu-color: rgb(255, 250, 243);
+  --menu-text-color: black;
+  /* --menu-color: rgb(149, 90, 84); */
+  /* --menu-text-color: antiquewhite; */
+}
+
+html,
+body {
+  height: 100vh;
+  background: black url(/images/cutting-board.jpg) center / cover;
+  background-attachment: fixed;
+}
+
+.hero {
+  background-color: var(--hero-color);
+  /* background: url(/images/cutting-board.jpg) center / cover; */
+}
+#menu {
+  height: auto;
+  /* height: 100%; */
+}
+
+.main-title {
+  font-family: 'Sigmar One', cursive;
+  color: var(--title-color);
+}
+
+.main-subtitle {
+  font-family: 'Sigmar One', cursive;
+  color: var(--title-color);
+}
+.flame {
+  color: rgb(141, 53, 40);
+}
+
+.box {
+  background-color: var(--menu-color);
+  color: var(--menu-text-color);
+  /* font-family: 'Contrail One', cursive; */
+  /* font-family: 'Patrick Hand', cursive; */
+  /* font-family: 'Pangolin', cursive; */
+  font-family: 'Itim', cursive;
+}
+.box h6 {
+  font-family: 'Permanent Marker', cursive;
+}
+/* .box ul {
+  font-family: 'Permanent Marker', cursive;
+  list-style-type: '-';
+} */
+.box p::before {
+  content: '- ';
+  font-size: 0.7s5em;
+}
