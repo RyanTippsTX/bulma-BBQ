@@ -20,7 +20,7 @@ font-family: 'Pangolin', cursive;
 html,
 body {
   height: 100vh;
-  background: black url(images/cutting-board.jpg) center / cover;
+  background: black url(../images/cutting-board.jpg) center / cover;
   background-attachment: fixed;
 }
 
