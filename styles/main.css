@@ -20,9 +20,12 @@ font-family: 'Pangolin', cursive;
 
 html,
 body {
+  background-color: var(--hero-color);
+  /* background: black url(../images/cutting-board.jpg) center / cover;
+  background-attachment: fixed; */
+  display: flex;
+  flex-direction: column;
   height: 100vh;
-  background: black url(../images/cutting-board.jpg) center / cover;
-  background-attachment: fixed;
 }
 
 .hero {
@@ -30,8 +33,10 @@ body {
   /* background: url(/images/cutting-board.jpg) center / cover; */
 }
 #menu {
-  height: auto;
+  /* height: auto; */
   /* height: 100%; */
+  background: black url(../images/cutting-board.jpg) center / cover;
+  background-attachment: fixed;
 }
 
 .main-title {
