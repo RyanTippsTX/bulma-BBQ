@@ -11,6 +11,7 @@ font-family: 'Pangolin', cursive;
 :root {
   --hero-color: rgb(22, 13, 1);
   --title-color: antiquewhite;
+  --flame: rgb(141, 53, 40);
   --menu-color: rgb(255, 250, 243);
   --menu-text-color: black;
   /* --menu-color: rgb(149, 90, 84); */
@@ -44,6 +45,14 @@ body {
 }
 .flame {
   color: rgb(141, 53, 40);
+}
+
+.horizontal-rule {
+  border-style: solid;
+  /* background-color: var(--title-color); */
+  background-color: var(--flame);
+  height: 0.8rem;
+  border: none;
 }
 
 .box {
