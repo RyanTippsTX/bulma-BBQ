@@ -10,6 +10,7 @@ const Home: NextPage = () => {
         <title>The Tipps BBQ Experience</title>
         <meta name="description" content="Menu for the Tipps BBQ Experience" />
         <meta name="keywords" content="Tipps BBQ, brisket, barbeque, Ryan Tipps" />
+        <meta name="author" content="Ryan Tipps" />
         {/* <link rel="icon" href="/favicon.ico" /> */}
         {/* Trick to use an emoji as favicon */}
         <link
