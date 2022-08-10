@@ -1,0 +1,56 @@
+{
+  "Meats": [
+    "Brisket",
+    "Pork spare ribs",
+    "Beef ribs",
+    "Chicken",
+    "Chopped brisket jalapeno poppers",
+    "Ribeye steak (bbq-style)",
+    "Venison steak, bacon wraped"
+  ],
+  "Sauces": [
+    "Lady Bird's BBQ sauce",
+    "Central Texas BBQ sauce",
+    "Gold BBQ Sauce",
+    "Franklin's Espresso BBQ Sauce"
+  ],
+  "Snacks": ["Smoked Cheez-its", "Dried venison sausage", "Thanksgiving Iced latte"],
+  "Sides": [
+    "Grandma B's German potato salad",
+    "Steve's Mexicorn salad",
+    "Tipps BBQ beans",
+    "Keck's green beans",
+    "Ranch style beans",
+    "Smoked corn on the cob"
+  ],
+  "Desserts": ["Dutch oven blueberry cobbler", "Tres Leches", "Andy's Arroz con leche"],
+  "Breakfast Tacos": [
+    {
+      "Flour or corn tortilla, with any of the following:": [
+        "Egg",
+        "Bacon",
+        "Brisket",
+        "Steak",
+        "Tomato",
+        "Avocado",
+        "Beans",
+        "Cheese"
+      ]
+    }
+  ],
+  "Breakfast Baked Goods": ["Dutch apple coffee cake", "Alex's banana bread"],
+  "Non-BBQ Mains": [
+    "Lady Bird's Pedernales River chili",
+    "KC's Sweet chicken bacon wraps",
+    "Mom's meatloaf",
+    "Mom's Tuna burgers"
+  ],
+  "Non-BBQ Sides": [
+    "Baked tomatoes w/ parmesan",
+    "Sauteed spinach w/ tomatoes & garlic",
+    "Dirty street corn",
+    "Grilled sauerkraut w/ onions & peppers",
+    "Grilled Vegetable shish-kabobs",
+    "Grilled broccolini"
+  ]
+}
