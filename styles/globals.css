@@ -70,6 +70,10 @@ body {
   font-family: 'Permanent Marker', cursive;
   list-style-type: '-';
 } */
+.box p {
+  padding-left: 1.5em;
+  text-indent: -1.5em;
+}
 .box p::before {
   content: '- ';
   font-size: 0.7s5em;

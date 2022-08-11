@@ -1,49 +1,50 @@
 {
   "Meats": [
     "Brisket",
-    "Pork spare ribs",
-    "Beef ribs",
+    "Pork Spare Ribs",
+    "Beef Ribs",
     "Chicken",
-    "Chopped brisket jalapeno poppers",
-    "Ribeye steak (bbq-style)",
-    "Venison steak, bacon wraped"
+    "Chopped Brisket Jalapeno Poppers",
+    "Ribeye Steak (BBQ-Style)",
+    "Venison Steak, Bacon Wraped"
   ],
   "Sauces": [
-    "Lady Bird's BBQ sauce",
-    "Central Texas BBQ sauce",
-    "Gold BBQ Sauce",
-    "Franklin's Espresso BBQ Sauce"
+    "Lady Bird's BBQ Sauce",
+    "Central Texas BBQ Sauce",
+    "Franklin's Espresso BBQ Sauce",
+    "Gold BBQ Sauce"
   ],
-  "Snacks": ["Smoked Cheez-its", "Dried venison sausage", "Thanksgiving Iced latte"],
+  "Snacks": ["Smoked Cheez-it's", "Dried Venison Sausage", "Thanksgiving Iced Latte"],
   "Sides": [
-    "Grandma B's German potato salad",
-    "Steve's Mexicorn salad",
-    "Tipps BBQ beans",
-    "Keck's green beans",
-    "Ranch style beans",
-    "Smoked corn on the cob"
+    "Tipps's BBQ Beans",
+    "Grandma B's German Potato Salad",
+    "Steve's Mexicorn Salad",
+    "Keck's Green Beans",
+    "Smoked Corn on the Cob",
+    "Ranch Style Beans"
   ],
-  "Desserts": ["Dutch oven blueberry cobbler", "Tres Leches", "Andy's Arroz con leche"],
+  "Desserts": ["Dutch Oven Blueberry Cobbler", "Tres Leches", "Andy's Arroz Con Leche"],
   "Breakfast Tacos": [
-    { "Note": "Flour or corn tortilla, with any of the following:" },
-    "Brisket, Egg, Tomato, Avocado",
-    "Steak, Egg, Tomato, Avocado",
-    "Bacon, Egg, Tomato, Avocado",
-    "Bean & Cheese"
+    { "Note": "Flour or Corn Tortilla with:" },
+    "Brisket & Egg",
+    "Steak & Egg",
+    "Bacon & Egg",
+    "Bean & Cheese",
+    { "Note": "Extras: Avocado, Tomato, Onion, Jalapeno, Cheese" }
   ],
-  "Breakfast Baked Goods": ["Dutch apple coffee cake", "Alex's banana bread"],
+  "Breakfast Baked Goods": ["Dutch Apple Coffee Cake", "Alex's Banana Bread"],
   "Non-BBQ Mains": [
-    "Lady Bird's Pedernales River chili",
-    "KC's Sweet chicken bacon wraps",
-    "Mom's meatloaf",
-    "Mom's Tuna burgers"
+    "Lady Bird's Pedernales River Chili",
+    "KC's Sweet Chicken Bacon Wraps",
+    "Mom's Meatloaf",
+    "Mom's Tuna Burgers"
   ],
   "Non-BBQ Sides": [
-    "Baked tomatoes w/ parmesan",
-    "Sauteed spinach w/ tomatoes & garlic",
-    "Dirty street corn",
-    "Grilled sauerkraut w/ onions & peppers",
-    "Grilled Vegetable shish-kabobs",
-    "Grilled broccolini"
+    "Baked Tomatoes with Parmesan",
+    "Sauteed Spinach with Garlic & Cherry Tomatoes",
+    "Dirty Street Corn",
+    "Grilled Sauerkraut with Onions & Bell Peppers",
+    "Grilled Vegetable Shish Kabobs",
+    "Grilled Broccolini"
   ]
 }
