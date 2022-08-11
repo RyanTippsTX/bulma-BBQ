@@ -2,7 +2,8 @@ import MenuCard from './menuCard';
 
 export default function Menu() {
   return (
-    <section id="menu" className="section" style={{ overflowY: 'auto', height: '100%' }}>
+    <section id="menu" className="section">
+      {/* <section id="menu" className="section" style={{ overflowY: 'auto', height: '100%' }}> */}
       <div className="container is-max-desktop">
         <div className="columns">
           <div className="column">
