@@ -1,7 +1,10 @@
 // import menu from '../menu/menu.json';
-const menu: any = require('../menu/menu.json');
+const menu: Menu = require('../menu/menu.json');
 
-// interface Menu any;
+// Menu type - an object containing arrays, where each array element is either a string or recursive Menu type
+interface Menu {
+  [index: string]: (string | Menu)[];
+}
 
 export default function MenuCard({ menuCategory }: { menuCategory: string }) {
   const menuItems: any = menu[menuCategory].map((item: any) => {
