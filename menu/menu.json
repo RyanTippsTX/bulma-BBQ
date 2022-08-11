@@ -25,18 +25,11 @@
   ],
   "Desserts": ["Dutch oven blueberry cobbler", "Tres Leches", "Andy's Arroz con leche"],
   "Breakfast Tacos": [
-    {
-      "Flour or corn tortilla, with any of the following:": [
-        "Egg",
-        "Bacon",
-        "Brisket",
-        "Steak",
-        "Tomato",
-        "Avocado",
-        "Beans",
-        "Cheese"
-      ]
-    }
+    { "Note": "Flour or corn tortilla, with any of the following:" },
+    "Brisket, Egg, Tomato, Avocado",
+    "Steak, Egg, Tomato, Avocado",
+    "Bacon, Egg, Tomato, Avocado",
+    "Bean & Cheese"
   ],
   "Breakfast Baked Goods": ["Dutch apple coffee cake", "Alex's banana bread"],
   "Non-BBQ Mains": [
