@@ -4,6 +4,7 @@ import Image from 'next/image';
 // import styles from '../styles/Home.module.css';
 import Hero from '../components/hero';
 import Menu from '../components/menu';
+import Script from 'next/script';
 
 const Home: NextPage = () => {
   return (
@@ -20,6 +21,10 @@ const Home: NextPage = () => {
           href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🥩</text></svg>"
         />
       </Head>
+      <Script
+        src="https://use.fontawesome.com/releases/v6.1.1/js/all.js"
+        strategy="afterInteractive"
+      ></Script>
       <Hero />
       <Menu />
     </div>
