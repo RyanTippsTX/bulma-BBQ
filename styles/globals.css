@@ -15,8 +15,6 @@ font-family: 'Pangolin', cursive;
   --flame: rgb(141, 53, 40);
   --menu-color: rgb(255, 250, 243);
   --menu-text-color: black;
-  /* --menu-color: rgb(149, 90, 84); */
-  /* --menu-text-color: antiquewhite; */
 }
 
 html,
@@ -29,14 +27,6 @@ body,
   height: 100vh;
   overflow: hidden; /* Hide scrollbars */
 }
-
-/* #__next {
-  height: 100vh;
-}
-
-#__next > div {
-  height: 100vh;
-} */
 
 .hero {
   background-color: var(--hero-color);
@@ -61,11 +51,11 @@ body,
 }
 
 .horizontal-rule {
-  border-style: solid;
   background-color: var(--flame);
-  /* height: 0.8rem; */
-  height: 10px;
+  height: 0.8em;
   border: none;
+  padding: 0;
+  margin: 0;
 }
 
 .box {
