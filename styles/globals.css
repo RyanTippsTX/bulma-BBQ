@@ -51,7 +51,8 @@ body {
 .horizontal-rule {
   border-style: solid;
   background-color: var(--flame);
-  height: 0.8rem;
+  /* height: 0.8rem; */
+  height: 10px;
   border: none;
 }
 
